@@ -1,2 +1,1 @@
-[![Build Status](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/stepin104310.mslearn-tailspin-spacegame-web?branchName=masterr)](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=5&branchName=master)
-https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/stepin104310.mslearn-tailspin-spacegame-web?branchName=master
+[![Build Status](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/stepin104310.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=5&branchName=master)
