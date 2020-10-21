@@ -29,3 +29,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+[![Build Status](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/stepin104310.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/bunny2306/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=5&branchName=feature%2Fhome-page-text)
