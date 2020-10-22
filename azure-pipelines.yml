@@ -2,7 +2,6 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-18.04'
   name: 'MyAgentPool'
   demands:
     - npm
